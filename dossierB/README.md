@@ -28,9 +28,7 @@ Counters track how long the driver:
 - had eyes closed
 - was looking away
 
-At the end:
-score is calculated
-normalized to 0–1
+At the end score is calculated (0–1)
 
 
 How to Run
